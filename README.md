@@ -391,39 +391,39 @@ End
 
 📸 Project Screenshots :
 The project screenshots demonstrate the practical implementation and investigation process.
-Screenshot 01 — Wazuh Overview
+Screenshot 01 - Wazuh Overview
 Shows the main Wazuh dashboard and security monitoring environment.
-Screenshot 02 — Agent Status
+Screenshot 02 - Agent Status
 Shows the connected Windows endpoint and Wazuh Agent information.
-Screenshot 03 — Failed Logon Detection
+Screenshot 03 - Failed Logon Detection
 Shows detection of a Windows failed authentication event.
-Screenshot 04 — Windows Event Investigation
+Screenshot 04 - Windows Event Investigation
 Shows detailed information from the Windows Security event.
-Screenshot 05 — File Integrity Monitoring
+Screenshot 05 - File Integrity Monitoring
 Shows Wazuh FIM alerts generated from file activity.
-Screenshot 06 — Security Configuration Assessment
+Screenshot 06 - Security Configuration Assessment
 Shows the CIS-based Windows security configuration assessment.
-Screenshot 07 — IT Hygiene Hardware
+Screenshot 07 - IT Hygiene Hardware
 Shows endpoint hardware information.
-Screenshot 08 — IT Hygiene Software
+Screenshot 08 - IT Hygiene Software
 Shows installed software information.
-Screenshot 09 — IT Hygiene Network
+Screenshot 09 - IT Hygiene Network
 Shows endpoint network information.
-Screenshot 10 — IT Hygiene Processes
+Screenshot 10 - IT Hygiene Processes
 Shows running processes on the endpoint.
-Screenshot 11 — IT Hygiene Services
+Screenshot 11 - IT Hygiene Services
 Shows Windows services.
-Screenshot 12 — Vulnerability Detection
+Screenshot 12 - Vulnerability Detection
 Shows the Wazuh vulnerability monitoring section.
-Screenshot 13 — MITRE ATT&CK Mapping
+Screenshot 13 - MITRE ATT&CK Mapping
 Shows the MITRE ATT&CK technique mapping associated with a security event.
 Example:
 T1565.001
 Stored Data Manipulation
 
-Screenshot 14 — Active Response
+Screenshot 14 - Active Response
 Shows Active Response execution information from the Wazuh Agent.
-Screenshot 15 — Rule and Alert Analysis
+Screenshot 15 - Rule and Alert Analysis
 Shows Wazuh rule and alert information.
 Example:
 Rule ID: 550
